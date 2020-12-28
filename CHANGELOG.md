@@ -1,10 +1,10 @@
-#CHANGE LOG#
+# CHANGE LOG
 
-##[Version 1.0.0] - 28/12/2020##
+## [Version 1.0.0] - 28/12/2020
 
-Added:
+### Added:
 - Simple Mario Machine Learning Program that can detect whether the image inputted is Mario or Luigi
 
-Changed:
+### Changed:
 
-Fixed:
+### Fixed:
