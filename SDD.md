@@ -1,4 +1,4 @@
-# MarioML Software Design Description
+# MarioML Software Design Description v.1.0.0
 This document allows all contributors to be able to work in a consistent manner.
 **NOTE** Everything is this document is subject to change.
 
@@ -45,7 +45,7 @@ Images are to be put under `images/character_name` *e.g. images/Mario/mario1.png
     # Calculate volume of a cylinder
     radius = input("Input radius of cylinder:")
     height = input("Input height of cylinder:")
-    
+
     area_of_circle = 2 * math.pi * radius**2
     volume_of_cylinder = area_of_circle * height
     print(volume_of_cylinder)
