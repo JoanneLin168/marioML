@@ -6,3 +6,4 @@
 - https://scikit-learn.org/stable/tutorial/basic/tutorial.html
 - https://youtu.be/CTOURPZftuU
 - https://youtu.be/0rjlviOQlbc
+- https://stackoverflow.com/questions/45861947/how-to-insert-the-text-below-subplot-in-matplotlib
