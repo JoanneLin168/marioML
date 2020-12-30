@@ -11,6 +11,8 @@
 - Predictions now show as text in the plot, rather than via `print` statements
 - Reduced the ratio of testing sample from 0.25 to 0.1 to increase the training sample
 
+### Fixed:
+
 ## [Version 1.1.0] - 29/12/2020
 
 ### Added:
@@ -21,7 +23,7 @@
 - Changed how the file system worked for the images
 - Changed how the images are retrieved
 
-## Fixed:
+### Fixed:
 
 ## [Version 1.0.0] - 28/12/2020
 
